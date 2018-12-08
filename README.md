@@ -2,7 +2,7 @@
 
 ## Installation
 ```bash
-npm i h21-map-infobox-baidu
+npm i h21-map-infobox-google
 ```
 ### How to use
 Load google maps javascript api asynchronously
